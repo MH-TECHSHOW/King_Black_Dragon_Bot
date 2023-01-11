@@ -1,7 +1,7 @@
 <h1 align="center">⚜️King_Black_Dragon_Bot V1⚜️<br></h1>
 <p align="center">
 
-<img src="<a href="https://ibb.co/dLBXGvP"><img src="https://i.ibb.co/5nTCB3r/BOT.png" alt="BOT" border="0"></a>"
+<a href="https://ibb.co/2FF0wnG"><img src="https://i.ibb.co/Cwwpq1R/Cute-Anya-Spy-x-Family-on-We-Heart-It.jpg" alt="Cute-Anya-Spy-x-Family-on-We-Heart-It" border="0"></a>
  
 <p align="center">
 Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/MH-TECHSHOW" target="_blank">Cyber Team</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
