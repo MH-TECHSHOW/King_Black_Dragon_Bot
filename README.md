@@ -1,6 +1,6 @@
 <h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V7⚜️<br></h1>
 <p align="center">
-<img src="<a href="https://ibb.co/dLBXGvP"><img src="https://i.ibb.co/5nTCB3r/BOT.png" alt="BOT" border="0"></a>" alt="animated" width="540" height="280" />
+<img src="<a href="https://ibb.co/dLBXGvP"><img src="https://i.ibb.co/5nTCB3r/BOT.png" alt="BOT" border="0"></a>"
 
 <p align="center">
 Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/Kaveeshasithum" target="_blank">Cyber X Team</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
