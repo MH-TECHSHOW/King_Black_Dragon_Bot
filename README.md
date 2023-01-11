@@ -27,8 +27,9 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 
 ## ```Bot Support Groups```
 
-- 
-- [`1nd GC`](https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX)
+- [`1nd GROUP`](https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX)
+
+- [`2nd GROUP`](https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX)
 
 
 # Setup For Deployment 👇
