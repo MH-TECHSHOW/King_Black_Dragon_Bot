@@ -1,4 +1,4 @@
-<h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V7⚜️<br></h1>
+<h1 align="center">⚜️King_Black_Dragon_Bot V1⚜️<br></h1>
 <p align="center">
 <img src="<a href="https://ibb.co/dLBXGvP"><img src="https://i.ibb.co/5nTCB3r/BOT.png" alt="BOT" border="0"></a>"
 
