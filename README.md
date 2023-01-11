@@ -33,7 +33,7 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/DARKNERO--V7/fork)
+- FORK THE REPOSITORY [Here](https://github.com/MH-TECHSHOW/King_Black_Dragon_Bot/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nimaofficial/DARK-NERO-QR?v=1)
