@@ -41,8 +41,6 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
  ` BUILDPACKS`
 
 ```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kaveeshasithum/DARKNERO--V7)
